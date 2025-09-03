@@ -1,3 +1,10 @@
+SaulLM-54B-Instruct.i1-IQ1_S.gguf
+legal_fine_tuned_model/
+legal_qa_model/
+test_legal_model/
+test_saul_model/
+wandb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

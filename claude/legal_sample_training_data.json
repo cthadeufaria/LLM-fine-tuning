@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Como posso obter um visto de trabalho para Portugal sendo brasileiro?",
+    "context": "Sou engenheiro de software com 5 anos de experiência",
+    "answer": "Para obter um visto de trabalho em Portugal sendo brasileiro, você precisa: 1) Ter uma oferta de emprego de empresa portuguesa, 2) Apresentar contrato de trabalho, 3) Reunir documentação necessária (passaporte, antecedentes criminais, qualificações, seguro saúde, comprovante de alojamento), 4) Solicitar no consulado português no Brasil (prazo 15-60 dias úteis), 5) Após aprovação, recolher visto e entrar em Portugal em até 90 dias para solicitar autorização de residência no SEF. Como engenheiro de software, você pode se beneficiar do regime especial para profissões em falta."
+  },
+  {
+    "question": "Quanto tempo demora para obter cidadania portuguesa?",
+    "context": "Moro em Portugal há 4 anos com autorização de residência",
+    "answer": "Para obter cidadania portuguesa por naturalização, você precisa de 5 anos de residência legal ininterrupta. Como você já tem 4 anos, precisará esperar mais 1 ano. Além disso, deve comprovar: conhecimentos básicos de português (nível A2), ligação efetiva ao território nacional, idoneidade civil e criminal. O processo demora entre 12-24 meses após o requerimento na Conservatória dos Registos Centrais, com taxa de cerca de 200€."
+  },
+  {
+    "question": "Posso trazer minha família para Portugal?",
+    "context": "Tenho autorização de residência e sou casado com dois filhos menores",
+    "answer": "Sim, você pode solicitar reagrupamento familiar. Como residente legal em Portugal, pode trazer: cônjuge, filhos menores ou maiores dependentes. Requisitos: alojamento adequado, recursos financeiros suficientes, seguro de saúde para todos, registo criminal limpo. O pedido é feito no consulado português no país de origem dos familiares, com prazo de 60-90 dias. Após chegada, deve solicitar autorização de residência no SEF para os familiares."
+  },
+  {
+    "question": "Que documentos preciso apostilar no Brasil?",
+    "context": "Vou solicitar visto de trabalho",
+    "answer": "Para visto de trabalho, deve apostilar (Apostila de Haia): certidão de nascimento, certidão de casamento (se casado), diploma de graduação/certificados profissionais, antecedentes criminais da Polícia Federal. A apostila deve ser feita em cartórios autorizados no Brasil. Documentos apostilados têm validade de 6 meses (antecedentes criminais: 3 meses). Em Portugal, pode precisar de tradução juramentada se os documentos não estiverem em português."
+  },
+  {
+    "question": "Como renovar minha autorização de residência?",
+    "context": "Minha autorização de residência vence em 2 meses",
+    "answer": "Deve renovar sua autorização de residência antes do vencimento. Processo: 1) Agendar atendimento no SEF com 30-60 dias de antecedência, 2) Reunir documentação (formulário preenchido, fotografias, passaporte, comprovativo de rendimentos, seguro saúde, comprovativo de alojamento, registo criminal), 3) Comparecer ao atendimento agendado, 4) Pagar taxa de renovação (cerca de 75€). Se não conseguir agendar antes do vencimento, pode solicitar prorrogação de permanência."
+  }
+]
